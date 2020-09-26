@@ -10,4 +10,4 @@ ZCZC W00 150 L02 Synchrnous Zoom Meeting
 ZCZC W00 30 L01 Participated in SCeLE Forum
 
 # [Week01]
-ZCZC W01
+ZCZC W01 300 L21 Setting up debian env using VirtualBox
