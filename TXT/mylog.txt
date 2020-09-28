@@ -34,13 +34,16 @@
 
 # [Week00]
 ZCZC W00 360 L08 Trying Something: Linux (Pop!_OS) Troubleshooting
-ZCZC W00 30 L03 Github: Setting up os202 repository
-ZCZC W00 30 L04 Github Pages: Setting up Github Pages
-ZCZC W00 150 L02 Zoom: Synchronous Zoom Meeting
+ZCZC W00 120 L02 Zoom: Synchronous Zoom Meeting
 ZCZC W00 30 L01 SCeLE: Participated in SCeLE Forum
+ZCZC W00 30 L11 Assignment 1: Setting up os202 repository
+ZCZC W00 10 L12 Assignment 2: Initialized Week 0 Top 10 (w00.md)
+ZCZC W00 30 L13 Assignment 3: Setting up Github Pages
+ZCZC W00 60 L14 Assignment 4: Write my personal Top 10 List
+ZCZC W00 5 L15 Assignment 5: Course regisration on SCeLE
 
 # [Week01]
-ZCZC W01 150 L02 Zoom: Synchronous Zoom Meeting
+ZCZC W01 120 L02 Zoom: Synchronous Zoom Meeting
 ZCZC W01 15 L22 Youtube: Downfall of IBM (haven't finished it yet)
 ZCZC W01 30 L01 SCeLE: Participated in SCeLE Forum
 ZCZC W01 15 L05 GSGS: How to operate using gawk/awk commands
