@@ -43,8 +43,16 @@ ZCZC W00 30 L01 SCeLE: Participated in SCeLE Forum
 ZCZC W01 150 L02 Zoom: Synchronous Zoom Meeting
 ZCZC W01 15 L22 Youtube: Downfall of IBM (haven't finished it yet)
 ZCZC W01 30 L01 SCeLE: Participated in SCeLE Forum
-ZCZC W01 15 L05 GSGS: How to operate gawk commands
-ZCZC W01 240 L21 VirtualBox: Setting up Debian env using VirtualBox
-ZCZC W01 10 L27 Pets: Feed and pet Cece & Lala (is being done on a daily basis)
-ZCZC W01 10 L08 Trying Something: Setting up tunnel from local Pop!_OS env to badak
+ZCZC W01 15 L05 GSGS: How to operate using gawk/awk commands
+ZCZC W01 120 L21 VirtualBox: Setting up Debian env using VirtualBox
+ZCZC W01 10 L11 Assignment 1: Create or Import Debian Virtual Guest
+ZCZC W01 30 L12 Assignment 2: Log intu the guest and learn some CLI commands
+ZCZC W01 5 L13 Assignment 3: Create new user account such as GitHub account
+ZCZC W01 10 L14 Assignment 4: Create a tunnel from guest user to badak via kawung
+ZCZC W01 5 L15 Assignment 5: Copy folders from badak to guest dir using rsync
+ZCZC W01 1 L16 Assignment 6: git pull os202 from github
+ZCZC W01 5 L17 Assignment 7: Update and git push from guest dir to os202 github
+ZCZC W01 5 L18 Assignment 8: Add w00.md and w01.md for weekly top 10 List
+ZCZC W01 30 L19 Assignment 9: Did a quick skimming on Silberschatz's OSC ch 01, 01, and 18
+ZCZC W01 10 L27 Pets: Feed and pet Cece & Lala (is being done on a daily basis so its actually 7 * 10 mins)
 ZCZC W01 5 L08 Trying Something: Sync /slides & /docs from badak to Pop!_OS env
