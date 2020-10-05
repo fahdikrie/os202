@@ -59,3 +59,10 @@ ZCZC W01 5 L18 Assignment 8: Add w00.md and w01.md for weekly top 10 List
 ZCZC W01 30 L19 Assignment 9: Did a quick skimming on Silberschatz's OSC ch 01, 01, and 18
 ZCZC W01 10 L27 Pets: Feed and pet Cece & Lala (is being done on a daily basis so its actually 7 * 10 mins)
 ZCZC W01 5 L08 Trying Something: Sync /slides & /docs from badak to Pop!_OS env
+
+# [Week02]
+ZCZC W02 120 L02 Zoom: Synchronous Zoom Meeting
+ZCZC W02 30 L11 Assignment 1: Did a quick skimming o Silberschatz's OSC ch 16 & 17
+ZCZC W02 10 L12 Assignment 2: Generated GnuPG key pair
+ZCZC W02 15 L13 Assignment 3: Import public key from os4diss repository
+ZCZC W02 10 L14 Assignment 4: Export my own public key as mypubkey.txt
