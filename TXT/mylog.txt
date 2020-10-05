@@ -66,3 +66,9 @@ ZCZC W02 30 L11 Assignment 1: Did a quick skimming o Silberschatz's OSC ch 16 & 
 ZCZC W02 10 L12 Assignment 2: Generated GnuPG key pair
 ZCZC W02 15 L13 Assignment 3: Import public key from os4diss repository
 ZCZC W02 10 L14 Assignment 4: Export my own public key as mypubkey.txt
+ZCZC W02 15 L15 Assignment 5: Visit neighboring github pages & put 3 of the best neighbors on myrank.txt
+ZCZC W02 20 L16 Assignment 6: Update top 10 list for Week02
+ZCZC W02 45 L17 Assignment 7: Write a simple bash script
+ZCZC W02 15 L18 Assignment 8: Update mylog.txt for Week02 (cumulative total duration)
+ZCZC W02 -- L19 Assignment 9: Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W02 45 L05 GSGS related: Did GSGS for my weekly top tens
