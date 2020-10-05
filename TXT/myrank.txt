@@ -1,7 +1,11 @@
 # TOP 10 Rank
+
+# [Week00]
 ZCZC W00 fathinah
 ZCZC W00 fadintan
 ZCZC W00 eugenebrigita
+
+# [Week01]
 ZCZC W01 fadintan
 ZCZC W01 fathinah
 ZCZC W01 destarass
