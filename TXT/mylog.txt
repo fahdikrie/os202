@@ -70,5 +70,6 @@ ZCZC W02 15 L15 Assignment 5: Visit neighboring github pages & put 3 of the best
 ZCZC W02 20 L16 Assignment 6: Update top 10 list for Week02
 ZCZC W02 45 L17 Assignment 7: Write a simple bash script
 ZCZC W02 15 L18 Assignment 8: Update mylog.txt for Week02 (cumulative total duration)
-ZCZC W02 -- L19 Assignment 9: Make SHA256SUM and sign it as SHA256SUM.asc
-ZCZC W02 45 L05 GSGS related: Did GSGS for my weekly top tens
+ZCZC W02 2 L19 Assignment 9: Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W02 90 L05 GSGS related: Did GSGS for my weekly top tens
+ZCZC W02 60 L08 Trying something: Did a little experiment on making bash script
