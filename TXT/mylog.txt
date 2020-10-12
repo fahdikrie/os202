@@ -77,12 +77,14 @@ ZCZC W02 60 L08 Trying something: Did a little experiment on making bash script
 # [Week03]
 ZCZC W03 120 L02 Zoom: Synchronous Zoom Meeting
 ZCZC W03 45 L11 Assignment 1: Did a quick skimming on Silberschatz's OSC ch 13, 14, & 15
-ZCZC W03 -- L12 Assignment 2: Try W02 & W03 Demos
+ZCZC W03 30 L12 Assignment 2: Try W02 & W03 Demos (haven't tried the W03 demos)
 ZCZC W03 5 L13 Assignment 3: Visit virtual guest on VBox and update .bash_aliases
 ZCZC W03 -- L14 Assignment 4: Visit neighboring github pages & put 3 of the best neighbors on myrank.txt
-ZCZC W03 -- L15 Assignment 5: Create top 10 list for Week03
+ZCZC W03 95 L15 Assignment 5: Create top 10 list for Week03
 ZCZC W03 5 L16 Assignment 6: Run chktoken 0S202 and write the result into myW03token.txt
 ZCZC W03 20 L17 Assignment 7: Download TLPI Code and write du into myW03disk.txt
-ZCZC W03 -- L18 Assignment 8: Update mylog.txt for Week03
+ZCZC W03 20 L18 Assignment 8: Update mylog.txt for Week03
 ZCZC W03 3 L13 Assignment 9: Update bash script
 ZCZC W03 -- L20 Assignment 10: Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W03 15 L05 GSGS: Finding solution/troubleshoot on how to compile C in a mounted drive
+ZCZC W03 7 L01 SCELE related: Answered Pak Rahmat's trigger discussion on showing this week's chktoken result
