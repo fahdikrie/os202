@@ -62,7 +62,7 @@ ZCZC W01 5 L08 Trying Something: Sync /slides & /docs from badak to Pop!_OS env
 
 # [Week02]
 ZCZC W02 120 L02 Zoom: Synchronous Zoom Meeting
-ZCZC W02 30 L11 Assignment 1: Did a quick skimming o Silberschatz's OSC ch 16 & 17
+ZCZC W02 30 L11 Assignment 1: Did a quick skimming on Silberschatz's OSC ch 16 & 17
 ZCZC W02 10 L12 Assignment 2: Generated GnuPG key pair
 ZCZC W02 15 L13 Assignment 3: Import public key from os4diss repository
 ZCZC W02 10 L14 Assignment 4: Export my own public key as mypubkey.txt
@@ -76,7 +76,7 @@ ZCZC W02 60 L08 Trying something: Did a little experiment on making bash script
 
 # [Week03]
 ZCZC W03 120 L02 Zoom: Synchronous Zoom Meeting
-ZCZC W03 30 L11 Assignment 1: Did a quick skimming o Silberschatz's OSC ch 13, 14, & 15
+ZCZC W03 45 L11 Assignment 1: Did a quick skimming on Silberschatz's OSC ch 13, 14, & 15
 ZCZC W03 -- L12 Assignment 2: Try W02 & W03 Demos
 ZCZC W03 5 L13 Assignment 3: Visit virtual guest on VBox and update .bash_aliases
 ZCZC W03 -- L14 Assignment 4: Visit neighboring github pages & put 3 of the best neighbors on myrank.txt
