@@ -9,3 +9,8 @@ ZCZC W00 eugenebrigita
 ZCZC W01 fadintan
 ZCZC W01 fathinah
 ZCZC W01 destarass
+
+# [Week02]
+ZCZC W02 gilbertstefano48
+ZCZC W02 fathinah
+ZCZC W02 fadintan
