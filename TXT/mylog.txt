@@ -100,3 +100,4 @@ ZCZC W04 7 L16 Assignment 6: Download W04.tar.bz2.asc and write the result into 
 ZCZC W04 20 L17 Assignment 7: Update mylog.txt for Week04
 ZCZC W04 3 L18 Assignment 8: Update bash script
 ZCZC W04 3 L19 Assignment 9: Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W04 120 L05 GSGS related: Did a GSGS on several topics to be put on the top 10 list
