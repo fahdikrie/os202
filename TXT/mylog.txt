@@ -84,7 +84,19 @@ ZCZC W03 95 L15 Assignment 5: Create top 10 list for Week03
 ZCZC W03 5 L16 Assignment 6: Run chktoken 0S202 and write the result into myW03token.txt
 ZCZC W03 20 L17 Assignment 7: Download TLPI Code and write du into myW03disk.txt
 ZCZC W03 20 L18 Assignment 8: Update mylog.txt for Week03
-ZCZC W03 3 L13 Assignment 9: Update bash script
+ZCZC W03 3 L19 Assignment 9: Update bash script
 ZCZC W03 3 L20 Assignment 10: Make SHA256SUM and sign it as SHA256SUM.asc
 ZCZC W03 15 L05 GSGS: Finding solution/troubleshoot on how to compile C in a mounted drive
 ZCZC W03 7 L01 SCELE related: Answered Pak Rahmat's trigger discussion on showing this week's chktoken result
+
+# [Week04]
+ZCZC W04 120 L03 Zoom: Synchronous Zoom Meeting
+ZCZC W04 18 L11 Assignment 1: Did a quick skimming on Silberschatz's OSC ch 09
+ZCZC W04 5 L12 Assignment 2: Updated all of the installed pkgs on my Virtual Guest
+ZCZC W04 15 L13 Assignment 3: Visit neighboring github pages & put 3 of the best neighbors on myrank.txt
+ZCZC W04 90 L14 Assignment 4: Create top 10 list for Week03
+ZCZC W04 5 L15 Assignment 5: Run chktoken NEWHOPE and write the result into myW04token.txt
+ZCZC W04 7 L16 Assignment 6: Download W04.tar.bz2.asc and write the result into myW04.txt
+ZCZC W04 20 L17 Assignment 7: Update mylog.txt for Week04
+ZCZC W04 3 L18 Assignment 8: Update bash script
+ZCZC W04 3 L19 Assignment 9: Make SHA256SUM and sign it as SHA256SUM.asc
