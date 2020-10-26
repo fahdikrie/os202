@@ -19,3 +19,8 @@ ZCZC W02 fadintan
 ZCZC W03 constantine-kevin
 ZCZC W03 gilbertstefano48
 ZCZC W03 dandyfebriano
+
+# [Week04]
+ZCZC W04 fadintan
+ZCZC W04 fathinah
+ZCZC W04 destarass
