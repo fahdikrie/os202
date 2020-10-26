@@ -106,3 +106,13 @@ ZCZC W04 120 L05 GSGS related: Did a GSGS on several topics to be put on the top
 ZCZC W05 120 L03 Zoom: Synchronous Zoom Meeting
 ZCZC W05 15 L11 Assignment 1: Did a quick skimming on Silberschatz's OSC ch 10
 ZCZC W05 5 L12 Assignment 2: Updated all of the installed pkgs on my Virtual Guest
+ZCZC W05 15 L13 Assignment 3: Visit neighboring github pages & put 3 of the best neighbors on myrank.txt
+ZCZC W05 75 L14 Assignment 4: Create top 10 list for Week03
+ZCZC W05 5 L15 Assignment 5: Run chktoken NEWHOPE and write the result into myW04token.txt
+ZCZC W05 7 L16 Assignment 6: Download W05.tar.bz2.asc and write the result into myW05.txt
+ZCZC W05 15 L17 Assignment 7: Update mylog.txt for Week05
+ZCZC W05 3 L18 Assignment 8: Update bash script
+ZCZC W05 3 L19 Assignment 9: Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W05 20 L05 GSGS related: Did some GSGS on this week's topic Virtual Memory
+ZCZC W05 35 L05 GSGS related: Did some GSGS on how to troubleshoot some partition problem
+ZCZC W05 15 L08 Trying Something: Trying to fix my permission issue on the ntfs partition
