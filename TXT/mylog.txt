@@ -116,3 +116,14 @@ ZCZC W05 3 L19 Assignment 9: Make SHA256SUM and sign it as SHA256SUM.asc
 ZCZC W05 20 L05 GSGS related: Did some GSGS on this week's topic Virtual Memory
 ZCZC W05 35 L05 GSGS related: Did some GSGS on how to troubleshoot some partition problem
 ZCZC W05 15 L08 Trying Something: Trying to fix my permission issue on the ntfs partition
+
+# [Week06]
+ZCZC W06 - L11 Assignment 1: Did a quick skimming on Silberschatz's OSC ch 3 & 4
+ZCZC W06 - L12 Assignment 2: Updated all of the installed pkgs on my Virtual Guest
+ZCZC W06 - L13 Assignment 3: Visit neighboring github pages & put 3 of the best neighbors on myrank.txt
+ZCZC W06 - L14 Assignment 4: Create top 10 list for Week04
+ZCZC W06 - L15 Assignment 5: Run chktoken NEWHOPE and write the result into myW04token.txt
+ZCZC W06 - L16 Assignment 6: Download W06.tar.bz2.asc and write the result into myW06.txt
+ZCZC W06 - L17 Assignment 7: Update mylog.txt for Week06
+ZCZC W06 - L18 Assignment 8: Update bash script
+ZCZC W06 - L19 Assignment 9: Make SHA256SUM and sign it as SHA256SUM.asc
