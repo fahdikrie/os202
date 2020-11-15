@@ -24,3 +24,8 @@ ZCZC W03 dandyfebriano
 ZCZC W04 fadintan
 ZCZC W04 fathinah
 ZCZC W04 destarass
+
+# [Week05]
+ZCZC W05 constantine-kevin
+ZCZC W05 fghaffar26
+ZCZC W05 fathurrp
