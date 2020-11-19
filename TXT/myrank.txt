@@ -29,3 +29,8 @@ ZCZC W04 destarass
 ZCZC W05 constantine-kevin
 ZCZC W05 fghaffar26
 ZCZC W05 fathurrp
+
+# [Week06]
+ZCZC W06 fathinah
+ZCZC W06 fadintan
+ZCZC W06 eugenebrigita

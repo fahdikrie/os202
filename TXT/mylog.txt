@@ -133,14 +133,14 @@ ZCZC W06 25 L05 GSGS related: Searching on how gpg works and how to encrypt file
 ZCZC W06 15 L05 GSGS related: Did some GSGS on fork() and wait() system call in C
 
 # [Week07]
-ZCZC W07 -- L12 Assignment 2: Did a quick skimming on Silberschatz's OSC ch 6, 7 & 8
-ZCZC W07 -- L13 Assignment 3: Updated all of the installed pkgs on my Virtual Guest
-ZCZC W07 -- L14 Assignment 4: Visit neighboring github pages & put 3 of the best neighbors on myrank.txt
-ZCZC W07 -- L15 Assignment 5: Create top 10 list for Week07
-ZCZC W07 -- L16 Assignment 6: Run chktoken TFAWAKENS and write the result into myW07token.txt
-ZCZC W07 -- L16 Assignment 7: Download W07.tar.bz2.asc
-ZCZC W07 -- L17 Assignment 8: Update mylog.txt for Week06
-ZCZC W07 -- L18 Assignment 9: Update bash script
-ZCZC W07 -- L19 Assignment 10: Make SHA256SUM and sign it as SHA256SUM.asc
-ZCZC W07 -- L20 Assignment 11: Do "make clean" and tar back W07 folder
-ZCZC W07 -- L20 Assignment 12: GnuPG encrypt (armor) to myW07.tar.bz2.txt
+ZCZC W07 45 L12 Assignment 2: Did a quick skimming on Silberschatz's OSC ch 6, 7 & 8
+ZCZC W07 7 L13 Assignment 3: Updated all of the installed pkgs on my Virtual Guest
+ZCZC W07 10 L14 Assignment 4: Visit neighboring github pages & put 3 of the best neighbors on myrank.txt
+ZCZC W07 60 L15 Assignment 5: Create top 10 list for Week07
+ZCZC W07 7 L16 Assignment 6: Run chktoken TFAWAKENS and write the result into myW07token.txt
+ZCZC W07 5 L16 Assignment 7: Download W07.tar.bz2.asc
+ZCZC W07 30 L17 Assignment 8: Update mylog.txt for Week06
+ZCZC W07 1 L18 Assignment 9: Update bash script
+ZCZC W07 2 L19 Assignment 10: Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W07 3 L20 Assignment 11: Do "make clean" and tar back W07 folder
+ZCZC W07 3 L20 Assignment 12: GnuPG encrypt (armor) to myW07.tar.bz2.txt
