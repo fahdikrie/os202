@@ -107,7 +107,7 @@ ZCZC W05 120 L03 Zoom: Synchronous Zoom Meeting
 ZCZC W05 15 L11 Assignment 1: Did a quick skimming on Silberschatz's OSC ch 10
 ZCZC W05 5 L12 Assignment 2: Updated all of the installed pkgs on my Virtual Guest
 ZCZC W05 15 L13 Assignment 3: Visit neighboring github pages & put 3 of the best neighbors on myrank.txt
-ZCZC W05 75 L14 Assignment 4: Create top 10 list for Week03
+ZCZC W05 75 L14 Assignment 4: Create top 10 list for Week05
 ZCZC W05 5 L15 Assignment 5: Run chktoken NEWHOPE and write the result into myW05token.txt
 ZCZC W05 7 L16 Assignment 6: Download W05.tar.bz2.asc and write the result into myW05.txt
 ZCZC W05 15 L17 Assignment 7: Update mylog.txt for Week05
@@ -121,7 +121,7 @@ ZCZC W05 15 L08 Trying Something: Trying to fix my permission issue on the ntfs 
 ZCZC W06 20 L11 Assignment 1: Did a quick skimming on Silberschatz's OSC ch 3 & 4
 ZCZC W06 5 L12 Assignment 2: Updated all of the installed pkgs on my Virtual Guest
 ZCZC W06 10 L13 Assignment 3: Visit neighboring github pages & put 3 of the best neighbors on myrank.txt
-ZCZC W06 - L14 Assignment 4: Create top 10 list for Week04
+ZCZC W06 90 L14 Assignment 4: Create top 10 list for Week06
 ZCZC W06 9 L15 Assignment 5: Run chktoken JOLANTRU and write the result into myW06token.txt
 ZCZC W06 13 L16 Assignment 6: Download W06.tar.bz2.asc and write the result into myW06.txt
 ZCZC W06 75 L17 Assignment 7: Update mylog.txt for Week06
@@ -131,3 +131,16 @@ ZCZC W06 3 L20 Assignment 10: Do "make clean" and tar back W06 folder
 ZCZC W06 5 L20 Assignment 11: GnuPG encrypt (armor) to myW06.tar.bz2.txt
 ZCZC W06 25 L05 GSGS related: Searching on how gpg works and how to encrypt files using gpg
 ZCZC W06 15 L05 GSGS related: Did some GSGS on fork() and wait() system call in C
+
+# [Week07]
+ZCZC W07 45 L12 Assignment 2: Did a quick skimming on Silberschatz's OSC ch 6, 7 & 8
+ZCZC W07 7 L13 Assignment 3: Updated all of the installed pkgs on my Virtual Guest
+ZCZC W07 10 L14 Assignment 4: Visit neighboring github pages & put 3 of the best neighbors on myrank.txt
+ZCZC W07 60 L15 Assignment 5: Create top 10 list for Week07
+ZCZC W07 7 L16 Assignment 6: Run chktoken TFAWAKENS and write the result into myW07token.txt
+ZCZC W07 5 L16 Assignment 7: Download W07.tar.bz2.asc
+ZCZC W07 30 L17 Assignment 8: Update mylog.txt for Week06
+ZCZC W07 1 L18 Assignment 9: Update bash script
+ZCZC W07 2 L19 Assignment 10: Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W07 3 L20 Assignment 11: Do "make clean" and tar back W07 folder
+ZCZC W07 3 L20 Assignment 12: GnuPG encrypt (armor) to myW07.tar.bz2.txt
