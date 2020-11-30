@@ -34,3 +34,8 @@ ZCZC W05 fathurrp
 ZCZC W06 fathinah
 ZCZC W06 fadintan
 ZCZC W06 eugenebrigita
+
+# [Week07]
+ZCZC W07 dandyfebriano
+ZCZC W07 gilbertstefano48
+ZCZC W07 constantine-kevin

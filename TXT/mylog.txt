@@ -133,14 +133,30 @@ ZCZC W06 25 L05 GSGS related: Searching on how gpg works and how to encrypt file
 ZCZC W06 15 L05 GSGS related: Did some GSGS on fork() and wait() system call in C
 
 # [Week07]
+ZCZC W07 120 L03 Zoom: Synchronous Zoom Meeting
 ZCZC W07 45 L12 Assignment 2: Did a quick skimming on Silberschatz's OSC ch 6, 7 & 8
 ZCZC W07 7 L13 Assignment 3: Updated all of the installed pkgs on my Virtual Guest
 ZCZC W07 10 L14 Assignment 4: Visit neighboring github pages & put 3 of the best neighbors on myrank.txt
 ZCZC W07 60 L15 Assignment 5: Create top 10 list for Week07
 ZCZC W07 7 L16 Assignment 6: Run chktoken TFAWAKENS and write the result into myW07token.txt
 ZCZC W07 5 L16 Assignment 7: Download W07.tar.bz2.asc
-ZCZC W07 30 L17 Assignment 8: Update mylog.txt for Week06
+ZCZC W07 30 L17 Assignment 8: Update mylog.txt for Week07
 ZCZC W07 1 L18 Assignment 9: Update bash script
 ZCZC W07 2 L19 Assignment 10: Make SHA256SUM and sign it as SHA256SUM.asc
 ZCZC W07 3 L20 Assignment 11: Do "make clean" and tar back W07 folder
 ZCZC W07 3 L20 Assignment 12: GnuPG encrypt (armor) to myW07.tar.bz2.txt
+
+# [Week98]
+ZCZC W08 120 L03 Zoom: Synchronous Zoom Meeting
+ZCZC W08 10 L12 Assignment 2: Did a quick skimming on Silberschatz's OSC10 ch 5
+ZCZC W08 5 L13 Assignment 3: Updated all of the installed pkgs on my Virtual Guest
+ZCZC W08 15 L14 Assignment 4: Visit neighboring github pages & put 3 of the best neighbors on myrank.txt
+ZCZC W08 75 L15 Assignment 5: Create top 10 list for Week08
+ZCZC W08 5 L16 Assignment 6: Run chktoken LINUXFROMSCRATCH and write the result into myW08token.txt
+ZCZC W08 30 L17 Assignment 7: Update mylog.txt for Week08
+ZCZC W08 1 L18 Assignment 8: Update bash script
+ZCZC W08 2 L19 Assignment 9: Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W08 - L20 Assignment 10: Place the assigment to W08/ and tar into myW08.tar.bz2
+ZCZC W08 - L20 Assignment 11: GnuPG encrypt (armor) to myW08.tar.bz2.txt
+ZCZC W08 420 L08 Trying Something: I swear this lfs thingy really is taking lots of my time
+ZCZC W08 120 L05 GSGS related: Looking up for some troubleshoot for the errors whilst setting up lfs
